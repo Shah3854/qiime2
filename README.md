@@ -13,7 +13,6 @@ The pipeline automates the following steps:
 
 ## Requirements
 - [Nextflow](https://www.nextflow.io/)
-- [Docker](https://docs.docker.com/get-docker/) or [Singularity](https://sylabs.io/singularity/) for containerization
 - QIIME2 container (`qiime2/qiime2:2024.5.0`)
 
 ## Input Files
